@@ -27,6 +27,6 @@ Must include "main.h" header file on the files using the _printf() `#include "ma
 
 
 
-Project by Stanley Nyoni && Sam Zhou
+Project by `Stanley Nyoni` && `Sam Zhou`
 
 Copyright (c) 2023.
